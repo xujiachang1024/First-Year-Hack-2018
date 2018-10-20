@@ -6,6 +6,25 @@ import geocoder
 
 
 
+def userInput():
+
+    l = []
+    cont = True
+    i = 1
+    while cont == True:
+        city = raw_input("Please enter a city for your campaign:")
+        if city == 'stop':
+            cont = False
+        else:
+            i = i + 1
+            geocode_result = geocoder.mapquest(str(city),key='0avVckAOpv7m7HANtaBaRsSLfisXr9Ne')
+
+            l.append((city,city,geocode_result.lat,geocode_result.lng, i, None))
+
+    return l
+
+
+
 def read_cities(file_name):
     """
     Read in the cities from the given `file_name`, and return
@@ -216,12 +235,15 @@ def main():
     Reads in, and prints out, the city data, then creates the "best"
     cycle and prints it out.
     """
-    road_map = read_cities('rally_route.csv')
+    #road_map = read_cities('rally_route.csv')
+    #road_map = [('london', None, 51.507276, -0.12766, 1, None), ('manchester', None, 53.479147, -2.244745, 3, None), ('york', None, 53.959056, -1.081536, 3, None)]
+    road_map = userInput()
 
     print(road_map)
 
     #print_cities(road_map)
     optimal = find_best_cycle(road_map)
+
     print_map(optimal[0])
     output_road_map(optimal[0])
 
