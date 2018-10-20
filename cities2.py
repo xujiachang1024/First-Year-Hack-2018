@@ -218,7 +218,7 @@ def print_map(road_map):
         print ('{0}: The distance to {1} is {2:.2f}'.format(city[0], city[1],city[2]))
 
 def output_road_map(road_map):
-    with open("tsp_route.csv", "w") as writer:
+    with open("tsp_route2.csv", "w") as writer:
         writer.write("state, city, latitude, longitude, original_order, tsp_order\n")
         for city in road_map:
             row = ""
