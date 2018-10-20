@@ -1,6 +1,7 @@
 import random
 from functools import reduce
 from earth_distance import distance
+import csv
 
 def read_cities(file_name):
     """
@@ -13,12 +14,18 @@ def read_cities(file_name):
 
       Alabama -> Alaska -> Arizona -> ... -> Wyoming -> Alabama.
     """
-    road_map = [tuple(line.strip('\n').split('\t')) for line in open(file_name, 'r')]
 
-    road_map = [tuple(float(city[i]) if i > 1 else city[i] for i in range(len(city)))
-                                                                        for city in road_map]
+    roadmap = []
+    for l in csv.reader(open(file_name, 'r'), quotechar='"', delimiter=',', quoting=csv.QUOTE_ALL, skipinitialspace=True):
+        if l[5] == str("Lat"):
+            continue
 
-    return road_map
+        roadmap.append((l[2], l[1], float(l[5]), float(l[6]), int(l[0]), None))
+
+
+
+    print(roadmap)
+    return roadmap
 
 def print_cities(road_map):
     """
@@ -188,8 +195,11 @@ def main():
     Reads in, and prints out, the city data, then creates the "best"
     cycle and prints it out.
     """
-    road_map = read_cities('city-data.txt')
-    print_cities(road_map)
+    road_map = read_cities('rally_route.csv')
+
+    print(road_map)
+
+    #print_cities(road_map)
     optimal = find_best_cycle(road_map)
     print_map(optimal[0])
 
