@@ -198,8 +198,8 @@ def print_map(road_map):
     for city in cities_cost_lst:
         print ('{0}: The distance to {1} is {2:.2f}'.format(city[0], city[1],city[2]))
 
-def output_road_map(road_map):
-    with open("tsp_route.csv", "w") as writer:
+def output_road_map(road_map, file_name):
+    with open(file_name, "w") as writer:
         writer.write("state, city, latitude, longitude, original_order, tsp_order\n")
         for city in road_map:
             row = ""
@@ -223,7 +223,7 @@ def main():
     #print_cities(road_map)
     optimal = find_best_cycle(road_map)
     print_map(optimal[0])
-    output_road_map(optimal[0])
+    output_road_map(optimal[0], "tsp_route.csv")
 
 
 if __name__ == "__main__":
