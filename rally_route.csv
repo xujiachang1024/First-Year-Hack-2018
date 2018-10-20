@@ -1,0 +1,132 @@
+Rally order,City,State,Venue,Estimated Visitors,Lat,Long
+1,Richmond,VA,Richmond Coliseum,5000,37.544645,-77.434359
+2,Moon,PA,"Atlantic Aviation PIT, Pittsburgh International Airport",1500,40.497149,-80.222248
+3,Tampa,FL,Tampa Convention Center,4000,27.941864,-82.456741
+4,Greensboro,NC,Greensboro Coliseum Complex,6200,36.058682,-79.826131
+5,Atlanta,GA,Fox Theatre,3500,33.772459,-84.385781
+6,Dallas,TX,Gilley's Club,3600,32.768777,-96.797987
+7,The Woodlands,TX,The Woodlands Waterway Marriott Hotel & Conference Center,5000,30.160721,-95.460399
+8,Las Vegas,NV,"Mystère Theatre, Treasure Island Hotel and Casino",1600,36.12474,-115.172538
+9,Phoenix,AZ,"Arizona Veterans Memorial Coliseum, Arizona State Fairgrounds",6000,33.469444,-112.096667
+10,St. Clairsville,OH,"Health and Physical Education Center, Ohio University Eastern Campus",4000,40.073578,-80.975365
+11,Bangor,ME,Cross Insurance Center,4000,44.788802,-68.77929
+12,Raleigh,NC,"Raleigh Memorial Auditorium, Duke Energy Center for the Performing Arts",2300,35.771219,-78.639576
+13,Cincinnati,OH,Sharonville Convention Center,7000,39.279265,-84.445024
+14,Westfield,IN,"Grand Park Event Center, Grand Park",2000,40.062626,-86.150213
+15,Winston-Salem,NC,"Winston-Salem Fairground Annex, Dixie Classic Fairgrounds",4700,36.124772,-80.25487
+16,Scranton,PA,"Student Union Gymnasium, Lackawanna College",3500,41.410001,-75.656968
+17,Toledo,OH,Huntington Center,8900,41.651085,-83.536696
+18,Cedar Rapids,IA,DoubleTree Hotel Cedar Rapids Convention Complex,3000,41.979606,-91.668179
+19,Davenport,IA,Adler Theatre,2400,41.52286,-90.573511
+20,Colorado Springs,CO,"Gallogly Event Center, University of Colorado Colorado Springs",2500,38.892705,-104.79865
+21,Denver,CO,Wings Over the Rockies Air and Space Museum,6000,39.720891,-104.895508
+22,Columbus,OH,Greater Columbus Convention Center,1000,39.970315,-83.000813
+23,Mechanicsburg,PA,Cumberland Valley High School,5000,40.239965,-77.061506
+24,Ashburn,VA,Briar Woods High School,800,38.992491,-77.530972
+25,Daytona Beach,FL,Ocean Center,10000,29.22841,-81.011154
+26,Jacksonville,FL,Jacksonville Veterans Memorial Arena,10000,30.325811,-81.645058
+27,Portland,ME,Merrill Auditorium,1600,43.659436,-70.257072
+28,Des Moines,IA,Iowa Events Center,6000,41.591567,-93.622505
+29,Green Bay,WI,KI Convention Center,3000,44.517772,-88.011412
+30,Windham,NH,Windham High School,1500,42.795007,-71.322534
+31,Fayetteville,NC,Crown Arena,3000,35.015014,-78.891834
+32,Wilmington,NC,"Trask Coliseum, University of North Carolina at Wilmington",,34.224998,-77.878314
+33,Sunrise,FL,BB&T Center,,26.158469,-80.325551
+34,Kissimmee,FL,Silver Spurs Arena,8000,28.29894,-81.368987
+35,Altoona,PA,Blair County Convention Center,5000,40.457553,-78.401057
+36,Erie,PA,Erie Insurance Arena,8000,42.128001,-80.080889
+37,Fairfield,CT,"William H. Pitt Center, Sacred Heart University",5000,41.219599,-73.244748
+38,West Bend,WI,"Ziegler Family Expo Center, Washington County Fair Park & Conference Center",2000,43.35626,-88.186619
+39,Charlotte,NC,Charlotte Convention Center,5000,35.223079,-80.846097
+40,Dimondale,MI,The Summit Sports and Ice Complex,5000,42.682162,-84.654837
+41,Fredericksburg,VA,Fredericksburg Expo & Conference Center,3600,38.315819,-77.507836
+42,Akron,OH,"James A. Rhodes Arena, University of Akron",5000,41.075882,-81.508743
+43,Austin,TX,Luedecke Arena,7000,30.294317,-97.62108
+44,Tampa,FL,"Entertainment Hall, Florida State Fairgrounds",3000,27.989841,-82.365494
+45,Jackson,MS,Mississippi Coliseum,,32.300131,-90.171958
+46,Manchester,NH,Radisson Hotel Manchester Downtown,900,42.982236,-71.465916
+47,Everett,WA,Xfinity Arena,,47.978594,-122.202995
+48,Phoenix,AZ,Phoenix Convention Center,7500,33.449759,-112.070973
+49,Wilmington,OH,Roberts Centre,5500,39.523282,-83.843934
+50,Greenville,NC,Greenville Convention Center,3000,35.573096,-77.390707
+51,Pensacola,FL,Pensacola Bay Center,12500,30.416405,-87.208907
+52,Asheville,NC,U.S. Cellular Center,6000,35.597179,-82.555619
+53,Clive,IA,7 Flags Event Center,1600,41.61243,-93.757797
+54,Canton,OH,Canton Memorial Civic Center,6000,40.807921,-81.372986
+55,Laconia,NH,Laconia Middle School,600,43.537006,-71.472671
+56,Miami,FL,Knight Center Complex,,25.771152,-80.190925
+57,Colorado Springs,CO,"Colorado Jet Center, Colorado Springs Airport",,38.808689,-104.721029
+58,Estero,FL,Germain Arena,8000,26.440474,-81.778847
+59,High Point,NC,"Millis Athletic Convocation Center, High Point University",2000,35.971107,-79.996
+60,Kenansville,NC,Duplin County Events Center,6000,34.950783,-77.984284
+61,Toledo,OH,Stranahan Theater,,41.592692,-83.651796
+62,Chester Township,PA,Sun Center Studios,3000,39.852386,-75.407583
+63,Roanoke,VA,Berglund Center,9000,37.279613,-79.936027
+64,Melbourne,FL,Orlando Melbourne International Airport,,28.102006,-80.645154
+65,Council Bluffs,IA,Mid-America Center,1200,41.239984,-95.888432
+66,Waukesha,WI,Waukesha County Expo Center,1500,43.034655,-88.241351
+67,Bedford,NH,NH Sportsplex,900,42.921455,-71.457567
+68,Novi,MI,Suburban Collection Showplace,6000,42.489125,-83.502467
+69,Manheim,PA,Spooky Nook Sports,6000,40.106,-76.419004
+70,Pueblo,CO,Pueblo Convention Center,2000,38.266702,-104.607938
+71,Loveland,CO,Budweiser Events Center,8000,40.443954,-104.989834
+72,Prescott Valley,AZ,Prescott Valley Event Center,7000,34.588982,-112.336756
+73,Henderson,NV,Henderson Pavilion,7000,36.019262,-115.081401
+74,Reno,NV,Reno-Sparks Convention Center,,39.485859,-119.79211
+75,Ambridge,PA,Ambridge Area High School,3000,40.592352,-80.226427
+76,Wilkes-Barre,PA,Mohegan Sun Arena at Casey Plaza,9000,41.240536,-75.848551
+77,Panama City Beach,FL,"Aaron Bessant Amphitheater, Aaron Bessant Park",8500,30.220178,-85.876728
+78,Ocala,FL,Southeastern Livestock Pavilion,12000,29.210997,-82.130582
+79,Lakeland,FL,Lakeland Linder International Airport,7000,27.987929,-82.019716
+80,West Palm Beach,FL,South Florida Fairgrounds Expo Center,6000,26.681655,-80.189885
+81,Cincinnati,OH,U.S. Bank Arena,,39.097991,-84.504479
+82,Greensboro,NC,White Oak Amphitheatre,4000,36.055512,-79.827787
+83,Portsmouth,NH,Toyota of Portsmouth,7000,43.058304,-70.772652
+84,Colorado Springs,CO,Norris-Penrose Event Center,,38.822981,-104.848422
+85,Grand Junction,CO,"West Star Aviation, Grand Junction Regional Airport",,39.119047,-108.523765
+86,Delaware,OH,Delaware County Fair,1500,40.314033,-83.075855
+87,Fletcher,NC,WNC Agricultural Center,3100,35.426916,-82.533594
+88,Johnstown,PA,Cambria County War Memorial Arena,4000,40.322896,-78.922769
+89,Newtown Township,PA,Newtown Athletic Club Sports Training Center,4000,40.22509,-74.91087
+90,Virginia Beach,VA,"Library Plaza, Regent University",10000,36.80135,-76.196946
+91,Cleveland,OH,I-X Center,,41.399359,-81.853171
+92,Naples,FL,Collier County Fairgrounds,12000,26.306621,-81.588431
+93,St. Augustine,FL,St. Augustine Amphitheatre,,29.874679,-81.283264
+94,Tampa,FL,MidFlorida Credit Union Amphitheatre,20000,27.993236,-82.36408
+95,Sanford,FL,"Million Air Orlando, Orlando Sanford International Airport",10000,28.776907,-81.250506
+96,Tallahassee,FL,Tallahassee Car Museum,,30.486016,-84.162852
+97,Kinston,NC,"Kinston Jet Center, Kinston Regional Jetport",3100,35.324275,-77.611767
+98,Springfield,OH,Clark County Fairgrounds,5000,39.897876,-83.729639
+99,Toledo,OH,SeaGate Convention Centre,2900,41.649375,-83.536583
+100,Geneva,OH,"Track and Field Building, SPIRE Institute",5000,41.773889,-80.938399
+101,Lisbon,ME,Open Door Christian Academy,1200,44.028388,-70.10414
+102,Cedar Rapids,IA,McGrath Amphitheatre,5000,41.973274,-91.669692
+103,Golden,CO,Jefferson County Events Center,,39.722224,-105.170991
+104,Las Vegas,NV,The Venetian Las Vegas,8400,36.121174,-115.169653
+105,Greeley,CO,"Bank of Colorado Arena, University of Northern Colorado",3000,40.402217,-104.703044
+106,Albuquerque,NM,"Atlantic Aviation ABQ, Albuquerque International Sunport",4000,35.036035,-106.61952
+107,Grand Rapids,MI,DeltaPlex Arena,6500,43.009897,-85.680959
+108,Warren,MI,"Sports & Expo Center, Macomb Community College South Campus",5000,42.506959,-82.97466
+109,Eau Claire,WI,W.L. Zorn Arena,3000,44.79891,-91.498549
+110,Orlando,FL,"CFE Arena, Central Florida Fairgrounds",10000,28.607225,-81.197367
+111,Pensacola,FL,Maritime Park's Hunter Amphitheater,8000,30.404284,-87.218129
+112,Miami,FL,Bayfront Park,2600,25.773152,-80.187326
+113,Jacksonville,FL,Jacksonville Equestrian Center,4000,30.241876,-81.908461
+114,Concord,NC,Cabarrus Arena & Events Center,4200,35.388847,-80.50045
+115,Selma,NC,The Farm,15000,35.549722,-78.224688
+116,Atkinson,NH,Atkinson Country Club,1000,42.81935,-71.181984
+117,Wilmington,OH,"Airborne Maintenance & Engineering Services, Inc",3000,39.431495,-83.78663
+118,Hershey,PA,Giant Center,13000,40.286422,-76.669096
+119,Tampa,FL,Florida State Fairgrounds,10000,27.989841,-82.365494
+120,Wilmington,NC,Wilmington International Airport,5000,34.266893,-77.91052
+121,Denver,CO,National Western Complex,8000,39.781011,-104.971494
+122,Sioux City,IA,Sioux City Convention Center,4500,42.494144,-96.400121
+123,Minneapolis,MN,Sun Country Airlines,15000,44.874283,-93.227785
+124,Sterling Heights,MI,"Freedom Hill Amphitheater, Freedom Hill County Park",8000,42.562184,-82.974738
+125,Moon Township,PA,Atlantic Aviation,12000,40.497149,-80.222248
+126,Leesburg,VA,"Agricultural hall, Loudoun Fairgrounds",15000,39.130687,-77.605531
+127,Sarasota,FL,"Robarts Arena, Sarasota County Fairgrounds",5000,27.335988,-82.509023
+128,Raleigh,NC,Dorton Arena,7000,35.793971,-78.71033
+129,Scranton,PA,Lackawanna College Student Union,5000,41.410001,-75.656968
+130,Manchester,NH,SNHU Arena,12000,42.986589,-71.461666
+131,Grand Rapids,MI,DeVos Place Convention Center,4200,42.969537,-85.673159
